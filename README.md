@@ -1,0 +1,2 @@
+# CasualtiesUnknown-SimplifiedChinese-FlowSync
+基于官方翻译库深度优化的《未知伤亡》沉浸式高精度简体中文汉化包
